@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Laqub Haroon</h1>
-<h3 align="center">I am passionate about Machine Learning and Python Programming </h3>
+<h3 align="center">I am passionate about Artificial Intelligence, Machine Learning and Python Programming </h3>
 
 - 📫 How to reach me **laqubharoon@gmail.com**
 
